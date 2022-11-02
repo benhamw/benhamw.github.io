@@ -2,7 +2,7 @@
 
 body {
     color: white;
-    background-color: black;
+    background-color: #2b0202;
     padding: 0px;
     margin:0px;
     box-sizing: border-box;
@@ -50,7 +50,7 @@ body {
   
   aside.image-section {
     width: 50%;
-    background: black;
+    background: #2b0202;
   }
   
   /* Tabbing */
